@@ -47,7 +47,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 ---
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/raw/main/assets/skills.gif" alt="Skills">
+  <img src="https://i.gifer.com/BOuY.gif" alt="Skills">
 </p>
 
 <h2 align="center">💼 Skills & Technologies 💼</h2>
@@ -75,7 +75,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmateentechbits&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
@@ -93,7 +93,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 ---
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/raw/main/assets/visitors.gif" alt="Visitors">
+  <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/visitors.gif" alt="Visitors">
 </p>
 
 <h2 align="center">👀 Thanks for stopping by! 👀</h2>
