@@ -71,7 +71,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulmateentechbits&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
