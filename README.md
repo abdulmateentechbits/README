@@ -53,11 +53,14 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 <h2 align="center">💼 Skills & Technologies 💼</h2>
 
 <p align="center">
-  - Programming Languages: Javascript , PHP, Webrtc
-  - Frameworks & Libraries: React js, React native, Capacitor Framework7, node js , next js, express js
-  - Tools & Technologies: [List of tools and technologies]
-  - Areas of Expertise: [React native mobile application ]
+  - React Native Development
+  - React.js
+  - Next.js
+  - Laravel
+  - App Maintenance for Play Store & App Store
+  - Cross-Platform Development
 </p>
+
 
 ---
 
