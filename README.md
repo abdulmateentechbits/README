@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm passionate about [Javascript and its framework]. Here, you'll find a collection of my projects, contributions, and explorations in the world of coding and beyond.
+  Welcome to my GitHub profile! I'm passionate about Javascript and its framework. Here, you'll find a collection of my projects, contributions, and explorations in the world of coding and beyond.
 </p>
 
 <p align="center">
