@@ -5,9 +5,9 @@
 <h1 align="center">👋 Hello, World! I'm [Abdul Mateen] 👋</h1>
 
 <p align="center">
-  <a href="[https://your-website.com](https://techibits.com/abdul-mateen/)"><img src="https://img.shields.io/badge/Website-YourWebsite.com-blue" alt="Website"></a>
-  <a href="[https://twitter.com/your-twitter-handle](https://twitter.com/mateenchitrali)"><img src="https://img.shields.io/badge/Twitter-%40YourTwitterHandle-blue" alt="Twitter"></a>
-  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abdulmateenchitrali/)"><img src="https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue" alt="LinkedIn"></a>
+  <a href="https://techibits.com/abdul-mateen/"><img src="https://img.shields.io/badge/Website-YourWebsite.com-blue" alt="Website"></a>
+  <a href="https://twitter.com/mateenchitrali"><img src="https://img.shields.io/badge/Twitter-%40YourTwitterHandle-blue" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/abdulmateenchitrali/"><img src="https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 <h2 align="center">🚀 Featured Project: [Project Name] 🚀</h2>
 
 <p align="center">
-  ["Hello, I'm Abdul Mateen, a skilled 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚. With expertise in 𝙋𝙡𝙖𝙮 𝙎𝙩𝙤𝙧𝙚 𝙖𝙣𝙙 𝘼𝙥𝙥 𝙎𝙩𝙤𝙧𝙚 𝙖𝙥𝙥 maintenance, I ensure that your apps are up to date, fully functional, and optimized for the best user experience.
+  "Hello, I'm Abdul Mateen, a skilled 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚. With expertise in 𝙋𝙡𝙖𝙮 𝙎𝙩𝙤𝙧𝙚 𝙖𝙣𝙙 𝘼𝙥𝙥 𝙎𝙩𝙤𝙧𝙚 𝙖𝙥𝙥 maintenance, I ensure that your apps are up to date, fully functional, and optimized for the best user experience.
 
 My top priority is keeping your mobile apps running smoothly and ensuring they are compatible with the latest operating systems and devices. I have a proven track record of efficiently updating React 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝙖𝙥𝙥𝙨 to the latest versions, incorporating new features and enhancements while preserving stability.
 
@@ -35,7 +35,7 @@ In addition to my mobile app focus, I possess in-depth knowledge of 𝙍𝙚𝙖
 
 I thrive on collaborating with clients to understand their unique requirements and provide tailored solutions. As an experienced React Native Developer, I excel in creating new features, enhancing app performance, and troubleshooting issues. With a commitment to delivering top-notch service and ensuring timely project completion, I prioritize client satisfaction.
 
-Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚 needs and help you stay ahead in the ever-evolving digital landscape."]
+Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚 needs and help you stay ahead in the ever-evolving digital landscape."
 </p>
 
 <p align="center">
@@ -51,8 +51,8 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 <h2 align="center">💼 Skills & Technologies 💼</h2>
 
 <p align="center">
-  - Programming Languages: [Javascript , PHP, Webrtc]
-  - Frameworks & Libraries: [React js, React native, Capacitor Framework7, node js , next js, express js]
+  - Programming Languages: Javascript , PHP, Webrtc
+  - Frameworks & Libraries: React js, React native, Capacitor Framework7, node js , next js, express js
   - Tools & Technologies: [List of tools and technologies]
   - Areas of Expertise: [React native mobile application ]
 </p>
@@ -82,7 +82,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 <h2 align="center">🤝 Contributions & Open Source 🤝</h2>
 
 <p align="center">
-  [Describe your involvement in open source projects, contributions made, and any notable achievements or recognition received. Encourage others to collaborate or contribute to open source as well.]
+  Describe your involvement in open source projects, contributions made, and any notable achievements or recognition received. Encourage others to collaborate or contribute to open source as well.
 </p>
 
 ---
