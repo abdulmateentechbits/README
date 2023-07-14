@@ -36,7 +36,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 
 <h2 align="center">🚀 Featured Project: react-native-boilerplate 🚀</h2>
 
-<p align="center">
+<p align="left">
   The repository "react-native-boilerplate" by Abdul Mateen is a comprehensive boilerplate project for React Native applications. It provides a solid foundation and structure to kickstart your React Native projects, saving you time and effort in setting up the initial project structure and configurations.
 
 This boilerplate includes essential features and common libraries typically used in React Native development, such as navigation, state management, and API integration. It follows best practices and conventions, making it easier to maintain and scale your React Native applications.
