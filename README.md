@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/raw/main/assets/animation.gif" alt="Animated README">
+  <img src="https://github.com/abdulmateentechbits/gif/blob/master/JXA0.gif" alt="Animated README">
 </p>
 
 <h1 align="center">👋 Hello, World! I'm Abdul Mateen 👋</h1>
