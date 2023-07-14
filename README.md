@@ -93,7 +93,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 ---
 
 <p align="center">
-  <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/visitors.gif" alt="Visitors">
+  <img src="https://i.gifer.com/BOuY.gif" alt="Visitors">
 </p>
 
 <h2 align="center">👀 Thanks for stopping by! 👀</h2>
