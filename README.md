@@ -2,7 +2,7 @@
   <img src="https://github.com/your-username/your-repo/raw/main/assets/animation.gif" alt="Animated README">
 </p>
 
-<h1 align="center">👋 Hello, World! I'm [Abdul Mateen] 👋</h1>
+<h1 align="center">👋 Hello, World! I'm Abdul Mateen 👋</h1>
 
 <p align="center">
   <a href="https://techibits.com/abdul-mateen/"><img src="https://img.shields.io/badge/Website-YourWebsite.com-blue" alt="Website"></a>
