@@ -34,7 +34,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
   <img src="https://github.com/your-username/your-repo/raw/main/assets/project-preview.gif" alt="Project Preview">
 </p>
 
-<h2 align="center">🚀 Featured Project: [Project Name] 🚀</h2>
+<!----<h2 align="center">🚀 Featured Project: [Project Name] 🚀</h2>
 
 <p align="center">
   "Hello,,,,,,,,,,,,,,,,,,,,, "
@@ -42,7 +42,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 
 <p align="center">
   Check out the project on GitHub: [Link to the project repository]
-</p>
+</p> --->
 
 ---
 
