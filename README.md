@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/abdulmateenchitrali/"><img src="https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue" alt="LinkedIn"></a>
 </p>
 
-<p align="center">
+<p align="left">
   Welcome to my GitHub profile! I'm a skilled 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚. With expertise in 𝙋𝙡𝙖𝙮 𝙎𝙩𝙤𝙧𝙚 𝙖𝙣𝙙 𝘼𝙥𝙥 𝙎𝙩𝙤𝙧𝙚 𝙖𝙥𝙥 maintenance, I ensure that your apps are up to date, fully functional, and optimized for the best user experience.
 
 My top priority is keeping your mobile apps running smoothly and ensuring they are compatible with the latest operating systems and devices. I have a proven track record of efficiently updating React 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝙖𝙥𝙥𝙨 to the latest versions, incorporating new features and enhancements while preserving stability.
@@ -24,7 +24,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 <b>Here, you'll find a collection of my projects, contributions, and explorations in the world of coding and beyond.</b>
 </p>
 
-<p align="center">
+<p align="left">
   Let's connect and collaborate! Feel free to reach out via email or any of the social links above.
 </p>
 
